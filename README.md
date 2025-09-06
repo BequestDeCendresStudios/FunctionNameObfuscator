@@ -34,7 +34,7 @@ end
 ~~~
 
 ## Other Usage
-Other information can be gathered using other means found here: [https://github.com/BequestDeCendresStudios/HowMany](How Many)
+Other information can be gathered using other means found here: [How Many]([How Many](https://github.com/BequestDeCendresStudios/HowMany))
 
 ## What Are One Time Pads?
 One time pads have to be completely random, used only once, and stored in a secure function. This system can be considered a weak version of a one time pad scheme with an extremely tiny key space.
