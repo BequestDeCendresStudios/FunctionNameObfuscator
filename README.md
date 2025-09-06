@@ -33,6 +33,10 @@ def fake_function_name
 end
 ~~~
 
+Suppose a malicious user wants to reverse engineer a program by analyzing function calls in class oriented programming: this obfuscates what exactly those functions do.
+
+Thus if someone decrypts it ( and more than likely they will ), you can assume then that malicious user is likely human until bots gets advanced enough that renders this test irrelevant.
+
 ## Other Usage
 Other information can be gathered using other means found here: [How Many]([How Many](https://github.com/BequestDeCendresStudios/HowMany))
 
