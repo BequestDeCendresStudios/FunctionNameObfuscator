@@ -5,7 +5,7 @@ Rather this is for temporarily obfuscating function names in programs, and allow
 
 Because traditionally manual cryptography is slow, this means its best for programs that don't use many functions.
 
-You are also limited to 26*26 possible shuffled latin alphabets, or 676 possible reciprocal keys. There are techniques to increase the same of the alphabet, but can cause formatting issues for function names.
+You are also limited to 26*26 possible shuffled latin alphabets, or 676 possible reciprocal keys. There are techniques to increase the size of the alphabet, but can cause formatting issues for function names.
 
 Its also best practice to use the fake function name generator, unless you're absolutely sure you need a bespoke function name to encrypt.
 
